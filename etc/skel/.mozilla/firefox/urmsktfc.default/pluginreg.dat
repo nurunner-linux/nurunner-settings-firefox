@@ -5,31 +5,6 @@ Version:0.17:$
 Arch:x86_64-gcc3:$
 
 [PLUGINS]
-libnpo1d.so:$
-/opt/google/talkplugin/libnpo1d.so:$
-:$
-1449879510000:0:0:0:$
-Version: 5.41.0.0:$
-Google Talk Plugin Video Renderer:$
-1
-0:application/o1d:Google Talk Plugin Video Renderer:o1d:$
-libnpgoogletalk.so:$
-/opt/google/talkplugin/libnpgoogletalk.so:$
-:$
-1449879510000:0:0:0:$
-Version: 5.41.0.0:$
-Google Talk Plugin:$
-1
-0:application/googletalk:Google Talk Plugin:googletalk:$
-libflashplayer.so:$
-/usr/lib/mozilla/plugins/libflashplayer.so:$
-11.2.202.621:$
-1463049254000:0:0:0:$
-Shockwave Flash 11.2 r202:$
-Shockwave Flash:$
-2
-0:application/x-shockwave-flash:Shockwave Flash:swf:$
-1:application/futuresplash:FutureSplash Player:spl:$
 IcedTeaPlugin.so:$
 /usr/share/icedtea-web/lib/IcedTeaPlugin.so:$
 :$
@@ -73,5 +48,30 @@ IcedTea-Web Plugin (using IcedTea-Web 1.6.2):$
 33:application/x-java-bean;version=1.7:IcedTea:class,jar:$
 34:application/x-java-bean;jpi-version=1.7.0_50:IcedTea:class,jar:$
 35:application/x-java-vm-npruntime:IcedTea::$
+libnpo1d.so:$
+/opt/google/talkplugin/libnpo1d.so:$
+:$
+1463979304000:0:0:0:$
+Version: 5.41.0.0:$
+Google Talk Plugin Video Renderer:$
+1
+0:application/o1d:Google Talk Plugin Video Renderer:o1d:$
+libnpgoogletalk.so:$
+/opt/google/talkplugin/libnpgoogletalk.so:$
+:$
+1463979305000:0:0:0:$
+Version: 5.41.0.0:$
+Google Talk Plugin:$
+1
+0:application/googletalk:Google Talk Plugin:googletalk:$
+libflashplayer.so:$
+/usr/lib/mozilla/plugins/libflashplayer.so:$
+11.2.202.632:$
+1468432745000:0:0:0:$
+Shockwave Flash 11.2 r202:$
+Shockwave Flash:$
+2
+0:application/x-shockwave-flash:Shockwave Flash:swf:$
+1:application/futuresplash:FutureSplash Player:spl:$
 
 [INVALID]
